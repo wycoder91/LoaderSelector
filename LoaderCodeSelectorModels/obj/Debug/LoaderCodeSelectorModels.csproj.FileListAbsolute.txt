@@ -1,0 +1,5 @@
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorModels\bin\Debug\LoaderCodeSelectorModels.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorModels\bin\Debug\LoaderCodeSelectorModels.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorModels\obj\Debug\LoaderCodeSelectorModels.csproj.CoreCompileInputs.cache
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorModels\obj\Debug\LoaderCodeSelectorModels.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorModels\obj\Debug\LoaderCodeSelectorModels.pdb

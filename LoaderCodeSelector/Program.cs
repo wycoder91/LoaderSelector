@@ -15,8 +15,11 @@ namespace LoaderCodeSelector
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.SetCompatibleTextRenderingDefault(false);          
+            Application.Run(new FrmMain());           
         }
+        public static List<string> strUIIn = new List<string>();
+        public static List<string> strUIOptionIn = new List<string>();
+        public static byte optionModelFlag = 0;
     }
 }

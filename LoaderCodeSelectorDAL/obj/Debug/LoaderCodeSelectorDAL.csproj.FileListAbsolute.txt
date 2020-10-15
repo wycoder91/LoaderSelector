@@ -1,0 +1,9 @@
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\bin\Debug\LoaderCodeSelectorDAL.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\bin\Debug\LoaderCodeSelectorDAL.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\bin\Debug\LoaderCodeSelectorModels.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\bin\Debug\LoaderCodeSelectorModels.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\obj\Debug\LoaderCodeSelectorDAL.csprojAssemblyReference.cache
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\obj\Debug\LoaderCodeSelectorDAL.csproj.CoreCompileInputs.cache
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\obj\Debug\LoaderCodeSelectorDAL.csproj.CopyComplete
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\obj\Debug\LoaderCodeSelectorDAL.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorDAL\obj\Debug\LoaderCodeSelectorDAL.pdb

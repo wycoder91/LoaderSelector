@@ -1,0 +1,11 @@
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorBLL.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorBLL.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorDAL.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorModels.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorDAL.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\bin\Debug\LoaderCodeSelectorModels.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\obj\Debug\LoaderCodeSelectorBLL.csprojAssemblyReference.cache
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\obj\Debug\LoaderCodeSelectorBLL.csproj.CoreCompileInputs.cache
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\obj\Debug\LoaderCodeSelectorBLL.csproj.CopyComplete
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\obj\Debug\LoaderCodeSelectorBLL.dll
+D:\platform\LoaderCodeSelector\LoaderCodeSelectorBLL\obj\Debug\LoaderCodeSelectorBLL.pdb

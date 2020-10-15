@@ -2,9 +2,11 @@ D:\platform\LoaderCodeSelector\LoaderCodeSelector\bin\Debug\LoaderCodeSelector.e
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\bin\Debug\LoaderCodeSelector.exe
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\bin\Debug\LoaderCodeSelector.pdb
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.csprojAssemblyReference.cache
-D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.Form1.resources
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.Properties.Resources.resources
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.csproj.GenerateResource.cache
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.csproj.CoreCompileInputs.cache
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.exe
 D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.pdb
+D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.FrmAuthority.resources
+D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.FrmMain.resources
+D:\platform\LoaderCodeSelector\LoaderCodeSelector\obj\Debug\LoaderCodeSelector.FrmOptinal.resources

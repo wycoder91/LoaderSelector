@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderCodeSelector", "LoaderCodeSelector\LoaderCodeSelector.csproj", "{76041B48-6D8A-4E37-93D4-5DAC76C65CB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderCodeSelectorUI", "LoaderCodeSelector\LoaderCodeSelectorUI.csproj", "{76041B48-6D8A-4E37-93D4-5DAC76C65CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderCodeSelectorModels", "LoaderCodeSelectorModels\LoaderCodeSelectorModels.csproj", "{1784A8CD-2648-47E7-862D-074ED221893F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderCodeSelectorDAL", "LoaderCodeSelectorDAL\LoaderCodeSelectorDAL.csproj", "{F310B2BF-74F5-4466-BBD1-D6818F2B3BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderCodeSelectorBLL", "LoaderCodeSelectorBLL\LoaderCodeSelectorBLL.csproj", "{868B2FD7-D79B-4AEB-932D-291B1230DC60}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7B548F5E-D2DD-417C-8763-60CDBE2C298C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,20 @@ Global
 		{76041B48-6D8A-4E37-93D4-5DAC76C65CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76041B48-6D8A-4E37-93D4-5DAC76C65CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76041B48-6D8A-4E37-93D4-5DAC76C65CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1784A8CD-2648-47E7-862D-074ED221893F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1784A8CD-2648-47E7-862D-074ED221893F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1784A8CD-2648-47E7-862D-074ED221893F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1784A8CD-2648-47E7-862D-074ED221893F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F310B2BF-74F5-4466-BBD1-D6818F2B3BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F310B2BF-74F5-4466-BBD1-D6818F2B3BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F310B2BF-74F5-4466-BBD1-D6818F2B3BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F310B2BF-74F5-4466-BBD1-D6818F2B3BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868B2FD7-D79B-4AEB-932D-291B1230DC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868B2FD7-D79B-4AEB-932D-291B1230DC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868B2FD7-D79B-4AEB-932D-291B1230DC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868B2FD7-D79B-4AEB-932D-291B1230DC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B548F5E-D2DD-417C-8763-60CDBE2C298C}.Debug|Any CPU.ActiveCfg = Debug
+		{7B548F5E-D2DD-417C-8763-60CDBE2C298C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
